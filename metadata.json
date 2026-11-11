@@ -1,0 +1,6 @@
+{
+  "name": "Gabriella Belder - Pre-Med Portfolio",
+  "description": "Interactive digital portfolio of Gabriella Belder, Pre-Med Biomedical Sciences student at University of South Florida. Features personal brand card, clinical experience timeline, specialty exploration, extracurriculars, and resume download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
